@@ -1,4 +1,9 @@
 {
+    "models": [
+        {"name": "DeepSeek", "api_key": "sk-95b195ecb75c417f9e3ca55bad2ba923"},
+        {"name": "Groq", "model_name": "llama-3.3-70b-versatile", "api_key": "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"}
+    ],
+    "default_model": "Groq",
     "repos": [
         {"path": "D:\\work-status-tracker", "branch": "development"}
     ]
